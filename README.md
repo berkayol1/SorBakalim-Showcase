@@ -1,6 +1,6 @@
 # 🚀 Sor Bakalım: Gelişmiş Bilgi Yarışması ve Yönetim Platformu
 
-![Project Banner](images/Promo Web Page 9.jpg)
+![Project Banner](images/Promo Web Page 9.png)
 
 > **⚠️ Önemli Not:** Bu proje ticari bir üründür ve satış hakları saklıdır. Bu repo, projenin teknik yetkinliklerini ve mimarisini sergilemek amacıyla oluşturulmuş bir **Showcase (Vitrin)** reposudur. Kaynak kodlar gizlidir.
 
@@ -91,7 +91,7 @@ Uygulamanın tanıtımı ve Google Play Store görünürlüğü için hazırlana
 
 | Özellikler & Tanıtım | Basın Kiti & İndirme |
 | :---: | :---: |
-| <img src="images/Promo Web Page 10.jpg" width="400"> | <img src="images/Promo Web Page 11.png" width="400"> |
+| <img src="images/Promo Web Page 10.png" width="400"> | <img src="images/Promo Web Page 11.png" width="400"> |
 
 ---
 
