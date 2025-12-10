@@ -37,11 +37,11 @@ Uygulama, oyunlaştırma (gamification) dinamikleri ve sosyal özelliklerle zeng
 
 | Ana Ekran & Profil | Düello Modu (PvP) | Soru Ekranı & Jokerler |
 | :---: | :---: | :---: |
-| <img src="assets/Android 1.jpg" width="250"> | <img src="assets/Android 7.jpg" width="250"> | <img src="assets/Android 2.jpg" width="250"> |
+| <img src="images/Android 1.jpg" width="250"> | <img src="images/Android 7.jpg" width="250"> | <img src="images/Android 2.jpg" width="250"> |
 
 | Canlı Sohbet | Kategori Seçimi | İstatistikler |
 | :---: | :---: | :---: |
-| <img src="assets/Android 4.jpg" width="250"> | <img src="assets/Android 6.jpg" width="250"> | <img src="assets/Android 3.jpg" width="250"> |
+| <img src="images/Android 4.jpg" width="250"> | <img src="images/Android 6.jpg" width="250"> | <img src="images/Android 3.jpg" width="250"> |
 
 ---
 
@@ -62,25 +62,25 @@ Uygulamanın beyni olan bu panel, tüm veritabanını kod yazmadan yönetmeyi sa
 
 **1. Kullanıcı Yönetimi ve Ekonomi Takibi**
 > Kullanıcıların detaylı verileri, ID'leri ve oyun içi bakiyeleri buradan yönetilir.
-<img src="assets/Admin Panel 1.png" width="800">
+<img src="images/Admin Panel 1.png" width="800">
 
 **2. Soru Ekleme ve Dil Seçimi**
 > Kategori ve Alt Kategori seçilerek sisteme yeni içerik girilebilir.
-<img src="assets/Admin Panel 5.jpg" width="800">
+<img src="images/Admin Panel 5.jpg" width="800">
 
 **3. Raporlanan Sorular (Moderasyon)**
 > Kullanıcı geri bildirimleri burada toplanır ve hatalı içerikler temizlenir.
-<img src="assets/Admin Panel 3.png" width="800">
+<img src="images/Admin Panel 3.png" width="800">
 
 **4. Kategori ve Soru Arama**
 > Binlerce soru arasında ID veya metin bazlı filtreleme yapılabilir.
-<img src="assets/Admin Panel 4.png" width="800">
+<img src="images/Admin Panel 4.png" width="800">
 
 **5. Yasaklı Kullanıcılar (Ban List)**
-<img src="assets/Admin Panel 2.png" width="800">
+<img src="images/Admin Panel 2.png" width="800">
 
 **6. Sistem Bakım Modu (Maintenance)**
-<img src="assets/Admin Panel 12.png" width="800">
+<img src="images/Admin Panel 12.png" width="800">
 
 </details>
 
@@ -91,7 +91,7 @@ Uygulamanın tanıtımı ve Google Play Store görünürlüğü için hazırlana
 
 | Özellikler & Tanıtım | Basın Kiti & İndirme |
 | :---: | :---: |
-| <img src="assets/Promo Web Page 10.jpg" width="400"> | <img src="assets/Promo Web Page 11.png" width="400"> |
+| <img src="images/Promo Web Page 10.jpg" width="400"> | <img src="images/Promo Web Page 11.png" width="400"> |
 
 ---
 
