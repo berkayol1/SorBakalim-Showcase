@@ -1,6 +1,6 @@
 # 🚀 Sor Bakalım: Gelişmiş Bilgi Yarışması ve Yönetim Platformu
 
-![Project Banner](assets/Promo Web Page 9.jpg)
+![Project Banner](images/Promo Web Page 9.jpg)
 
 > **⚠️ Önemli Not:** Bu proje ticari bir üründür ve satış hakları saklıdır. Bu repo, projenin teknik yetkinliklerini ve mimarisini sergilemek amacıyla oluşturulmuş bir **Showcase (Vitrin)** reposudur. Kaynak kodlar gizlidir.
 
@@ -99,8 +99,8 @@ Uygulamanın tanıtımı ve Google Play Store görünürlüğü için hazırlana
 Bu proje hakkında teknik detay almak veya satın alım görüşmeleri için iletişime geçebilirsiniz.
 
 * **Geliştirici:** Berkay Ay
-* **LinkedIn:** [Profil Linkiniz]
-* **Email:** [Email Adresiniz]
+* **LinkedIn:** linkedin.com/in/berkayay
+* **Email:** berkay81341@gmail.com
 
 ---
 *© 2025 Sor Bakalım - Tüm Hakları Saklıdır.*
