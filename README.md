@@ -1,6 +1,6 @@
 # 🚀 Sor Bakalım: Gelişmiş Bilgi Yarışması ve Yönetim Platformu
 
-![Project Banner](images/Promo Web Page 9.png)
+![Project Banner](images/banner.png)
 
 > **⚠️ Önemli Not:** Bu proje ticari bir üründür ve satış hakları saklıdır. Bu repo, projenin teknik yetkinliklerini ve mimarisini sergilemek amacıyla oluşturulmuş bir **Showcase (Vitrin)** reposudur. Kaynak kodlar gizlidir.
 
